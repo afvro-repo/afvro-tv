@@ -16,6 +16,7 @@ Semua link dapat digunakan di [KODI](https://kodi.tv/download/), [OTT Navigator]
 |------|------|
 | **Playlist Utama** | `https://raw.githubusercontent.com/afvro-repo/afvro-tv/master/playlist.m3u` |
 | **Playlist Backup** | `https://raw.githubusercontent.com/afvro-repo/afvro-tv/master/backup-streams.m3u` |
+| **TiviMate (Recommended)** | `https://raw.githubusercontent.com/afvro-repo/afvro-tv/master/tivimate.m3u` |
 
 # Channel yang Aktif
 CNBC Indonesia, CNN Indonesia, DAAI TV, Garuda TV, IDTV, Indosiar, Kompas TV, Metro TV, Magna Channel, Metro Globe Network, NET., Nusantara TV, Rajawali TV, Rodja TV, RRI Net, Trans7, Trans TV, tvOne, TVRI Nasional, TVRI Sport, TVRI World, VTV
@@ -38,4 +39,5 @@ CNBC Indonesia, CNN Indonesia, DAAI TV, Garuda TV, IDTV, Indosiar, Kompas TV, Me
 ## Android (OTT Navigator / TiviMate / IPTV Smarters)
 1. Install aplikasi dari Play Store
 2. Pilih opsi **Playlist** atau **M3U**
-3. Masukkan URL playlist dari GitHub
+3. Masukkan link TiviMate di atas (recommended untuk TiviMate)
+4. Masukkan link playlist dari GitHub
