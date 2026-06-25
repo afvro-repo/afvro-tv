@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://github.com/afvro-repo/afvro-tv/blob/main/icons/cnbcindonesia.png?raw=true" group-title="Indonesia",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://github.com/afvro-repo/afvro-tv/blob/main/icons/cnnindonesia.png?raw=true" group-title="Indonesia",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DAAITV.id" tvg-logo="https://github.com/afvro-repo/afvro-tv/blob/main/icons/daaitv.png?raw=true" group-title="Indonesia",DAAI TV
+https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
+#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://github.com/afvro-repo/afvro-tv/blob/main/icons/gtv.png?raw=true" group-title="Indonesia",Garuda TV
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
+#EXTINF:-1 tvg-id="IDTV.id" tvg-logo="https://github.com/afvro-repo/afvro-tv/blob/main/icons/idtv.png?raw=true" group-title="Indonesia",IDTV
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+#EXTINF:-1 tvg-id="IndonesianaTV.id" tvg-logo="https://github.com/afvro-repo/afvro-tv/blob/main/icons/indonesianatv.png?raw=true" group-title="Indonesia",Indonesiana.TV
+https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://github.com/afvro-repo/afvro-tv/blob/main/icons/kompastv.png?raw=true" group-title="Indonesia",Kompas TV
+https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
+#EXTINF:-1 tvg-id="MagnaChannel.id" tvg-logo="https://github.com/afvro-repo/afvro-tv/blob/main/icons/magna.png?raw=true" group-title="Indonesia",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://github.com/afvro-repo/afvro-tv/blob/main/icons/metrotv.png?raw=true" group-title="Indonesia",Metro TV
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MetroGlobeNetwork.id" tvg-logo="https://github.com/afvro-repo/afvro-tv/blob/main/icons/mgn.png?raw=true" group-title="Indonesia",Metro Globe Network
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NET.id" tvg-logo="https://github.com/afvro-repo/afvro-tv/blob/main/icons/net.png?raw=true" group-title="Indonesia",NET.
+https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://github.com/afvro-repo/afvro-tv/blob/main/icons/nusantaratv.png?raw=true" group-title="Indonesia",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://github.com/afvro-repo/afvro-tv/blob/main/icons/rtv.png?raw=true" group-title="Indonesia",Rajawali TV
+https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
+#EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://github.com/afvro-repo/afvro-tv/blob/main/icons/rodjatv.png?raw=true" group-title="Indonesia",Rodja TV
+https://rodjatv.com/rodjatv/live.m3u8
+#EXTINF:-1 tvg-id="RRINet.id" tvg-logo="https://github.com/afvro-repo/afvro-tv/blob/main/icons/rrinet.png?raw=true" group-title="Indonesia",RRI Net
+https://public-streaming.rri.co.id/memfs/b3169f10-7846-496c-a186-698ea5ddd310.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://github.com/afvro-repo/afvro-tv/blob/main/icons/trans7.png?raw=true" group-title="Indonesia",Trans7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://github.com/afvro-repo/afvro-tv/blob/main/icons/transtv.png?raw=true" group-title="Indonesia",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://github.com/afvro-repo/afvro-tv/blob/main/icons/tvone.png?raw=true" group-title="Indonesia",tvOne
+https://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://github.com/afvro-repo/afvro-tv/blob/main/icons/tvri.png?raw=true" group-title="Indonesia",TVRI Nasional
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://github.com/afvro-repo/afvro-tv/blob/main/icons/tvrisport.png?raw=true" group-title="Indonesia",TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 tvg-id="TVRIWorld.id" tvg-logo="https://github.com/afvro-repo/afvro-tv/blob/main/icons/tvriworld.png?raw=true" group-title="Indonesia",TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1 tvg-id="VTV.id" tvg-logo="https://github.com/afvro-repo/afvro-tv/blob/main/icons/vtv.png?raw=true" group-title="Indonesia",VTV
+https://flv.intechmedia.net/live/ch107.m3u8
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://github.com/afvro-repo/afvro-tv/blob/main/icons/indosiar.png?raw=true" group-title="Indonesia",Indosiar
+http://203.77.246.2:443/udp/239.1.1.110:5000
